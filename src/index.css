@@ -11,18 +11,3 @@ body {
   background-color: #d7dce0;
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/bg-1.jpg");
 }
-
-:root {
-  --background-1: #f3f4f6;
-  --background-2: #ffffff;
-
-  --primary-100: #a5a5a5;
-  --primary-500: #ffffff;
-
-  --secondary-100: #666565;
-  --secondary-500: #171717;
-
-  --accent-100: #effdf5;
-  --accent-300: #1dc79f;
-  --accent-500: #00b98e;
-}
